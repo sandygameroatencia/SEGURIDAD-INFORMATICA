@@ -147,8 +147,16 @@ footer{
 	width: 500;
 }
 
+#sig {
+	float: right;
 
 
+}
+
+
+#atra {
+	float: left;
+}
 
 
 
