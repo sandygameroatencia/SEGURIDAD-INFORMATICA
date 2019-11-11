@@ -9,7 +9,7 @@
 
 body {
   background: #D1F2EB;
-  color: #000;
+  color: #454545;
 }
 
 .content {
@@ -27,7 +27,7 @@ a { text-decoration: none; }
   border: 0px solid #666;
   border-radius: 10px;
   overflow: hidden;
-  background: #85C1E9;
+  background: #FAF0E6;
 }
 
 header {
@@ -330,7 +330,7 @@ nav h2 {
 
 .Titulo{
   font-family: 'Bree Serif', serif;
-  color: #5D6D7E;
+  color: #21618C;
   font-size: 40px;
 }
 .parrafo{
@@ -346,7 +346,7 @@ aside {
   margin-top: 10px;
   border: 0px solid #666;
   float: right;
-  background: #D7DBDD;
+  background: #21618C;
 }
 
 html {
